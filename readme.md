@@ -103,14 +103,6 @@ git push origin fitur-baru
 ## 📝 Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE)
 
-## 👨‍💻 Pengembang
-- Nama Anda - [GitHub](https://github.com/username)
-
-## 📞 Kontak
-- Email: email@domain.com
-- Website: https://website.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/username)
-
 ## 🙏 Ucapan Terima Kasih
 - [DaisyUI](https://daisyui.com/) untuk komponen UI
 - [Tailwind CSS](https://tailwindcss.com/) untuk styling
